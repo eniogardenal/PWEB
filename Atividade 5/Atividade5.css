@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    padding: 1px;
+    width: 100%;
+    color: white;
+    background-color: #c3170b;
+}
+h1{
+    font-size: 40px;
+}
+.container{
+    gap: 20px;
+    display: flex;
+    margin-bottom: 20px;
+}
+.card{
+    width: 50%;
+    padding: 10px;
+    margin: 5px;
+    text-align: left;
+    border-bottom-style: dashed;
+    border-width: 2px;
+}
+h3{
+    font-size: 28px;
+    text-align: center;
+    color: #c3170b;
+}
+img{
+    width: 55%;
+    float: left;
+    margin: 15px;
+    border-radius: 10px;
+}
+.conteudo{
+    font-size: 24px;
+}
+.data{
+    text-align: center;
+    font-size: 14px;
+}
+footer{
+    padding: 1px;
+    width: 100%;
+    color: white;
+    background-color: #c3170b;
+}
