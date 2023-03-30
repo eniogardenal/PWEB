@@ -1,0 +1,53 @@
+@media (min-width: 0px) and (max-width: 420px) {
+    #container{
+        background-color: gray;
+    }
+    #nome::after{
+        content: "Cinza";
+    }
+}
+
+@media (min-width: 421px) and (max-width: 768px)  {
+    #container{
+        background-color: orange;
+    }
+    #nome::after{
+        content: "Cor de Laranja";
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+    #container{
+        background-color: pink;
+    }
+    #nome::after{
+        content: "Cor de Rosa";
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1080px) {
+    #container{
+        background-color: red;
+    }
+    #nome::after{
+        content: "Vermelho";
+    }
+}
+
+@media (min-width: 1081px) and (max-width: 1366px) {
+    #container{
+        background-color: blue;
+    }
+    #nome::after{
+        content: "Azul";
+    }
+}
+
+@media (min-width: 1367px) and (max-width: 1920px) {
+    #container{
+        background-color: yellow;
+    }
+    #nome::after{
+        content: "Amarelo";
+    }
+}
