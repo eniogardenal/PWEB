@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    margin: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #9FB8E3;
+    background-color: #263A5E;
+}
+h1{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+button{
+    font-size: 15px;
+}
