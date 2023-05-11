@@ -1,0 +1,21 @@
+.janela {
+    width: 500px;
+    height: 500px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://img.freepik.com/fotos-premium/parede-fechada-de-uma-casa-de-pedra-com-janelas-e-persianas-de-madeira-antiga-arquitetura-europeia_116124-14364.jpg");
+    cursor: pointer;
+  }
+  .janela.fechada {
+    background-image: url("https://img.freepik.com/fotos-premium/parede-fechada-de-uma-casa-de-pedra-com-janelas-e-persianas-de-madeira-antiga-arquitetura-europeia_116124-14364.jpg");
+  }
+  
+  .janela.aberta{
+    background-image: url("https://img.elo7.com.br/product/main/3F3544F/moldura-espelho-madeira-demolicao-moldura-de-espelho.jpg");
+  }
+  
+  .janela.quebrada {
+    background-image: url("https://img.freepik.com/fotos-premium/fragmento-de-parede-com-janela-de-casa-de-madeira-rustica-abandonada-elemento-de-design-espaco-de-copia_338311-1461.jpg");
+  }
+  
